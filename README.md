@@ -7,4 +7,5 @@ Questions that I solved:
 3. What percentage of the population was infected with Covid-19 by country?
 
 Link to Dashboard visual:
+
 https://public.tableau.com/views/Covid-19Dashboard_16563691255190/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
